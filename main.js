@@ -70,3 +70,5 @@ function addNewItem() {
 }
 
 btn.addEventListener('click', addNewItem);
+
+((a,b) => a + b)(1,2)
